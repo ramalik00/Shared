@@ -1,0 +1,10 @@
+Total Cost: 68781
+Resources in Requisition:
+Resource Name: PetDryer, Quantity: 5, Unit Cost: 203
+Resource Name: PetWaterDispenser, Quantity: 11, Unit Cost: 717
+Resource Name: SmartPetBowl, Quantity: 24, Unit Cost: 696
+Resource Name: SmartPetCarrier, Quantity: 33, Unit Cost: 635
+Resource Name: SmartPetCollar, Quantity: 11, Unit Cost: 749
+Resource Name: SmartPetFeeder, Quantity: 11, Unit Cost: 991
+Resource Name: SmartPetGroomer, Quantity: 1, Unit Cost: 712
+Resource Name: SmartPetLeash, Quantity: 16, Unit Cost: 148

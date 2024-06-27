@@ -1,0 +1,29 @@
+Total Cost: 198243
+Resources in Requisition:
+Resource Name: Alarm, Quantity: 28, Unit Cost: 261
+Resource Name: Door, Quantity: 11, Unit Cost: 254
+Resource Name: Lock, Quantity: 28, Unit Cost: 890
+Resource Name: Mailbox, Quantity: 15, Unit Cost: 485
+Resource Name: Modem, Quantity: 10, Unit Cost: 25
+Resource Name: PetActivityTracker, Quantity: 21, Unit Cost: 78
+Resource Name: PetBed, Quantity: 54, Unit Cost: 912
+Resource Name: PetFeeder, Quantity: 1, Unit Cost: 724
+Resource Name: PetHouse, Quantity: 7, Unit Cost: 214
+Resource Name: PetLeash, Quantity: 4, Unit Cost: 871
+Resource Name: PetLitterBox, Quantity: 1, Unit Cost: 789
+Resource Name: PetShower, Quantity: 2, Unit Cost: 684
+Resource Name: PetWaterDispenser, Quantity: 3, Unit Cost: 907
+Resource Name: Photocopier, Quantity: 10, Unit Cost: 364
+Resource Name: SSD, Quantity: 4, Unit Cost: 1
+Resource Name: SmartAirConditioner, Quantity: 15, Unit Cost: 212
+Resource Name: SmartCurtain, Quantity: 7, Unit Cost: 782
+Resource Name: SmartPetBowl, Quantity: 2, Unit Cost: 91
+Resource Name: SmartPetFeeder, Quantity: 25, Unit Cost: 494
+Resource Name: SmartPetGroomer, Quantity: 9, Unit Cost: 37
+Resource Name: SmartPetLeash, Quantity: 31, Unit Cost: 665
+Resource Name: SmartPetLitterBox, Quantity: 6, Unit Cost: 151
+Resource Name: SmartPetWaterDispenser, Quantity: 1, Unit Cost: 561
+Resource Name: SmartSensor, Quantity: 23, Unit Cost: 848
+Resource Name: SmartThermostat, Quantity: 10, Unit Cost: 454
+Resource Name: SmartWashingMachine, Quantity: 45, Unit Cost: 403
+Resource Name: TrashCan, Quantity: 14, Unit Cost: 343

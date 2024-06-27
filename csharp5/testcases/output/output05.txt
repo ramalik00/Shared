@@ -1,0 +1,10 @@
+Total Cost: 57309
+Resources in Requisition:
+Resource Name: Amplifier, Quantity: 15, Unit Cost: 16
+Resource Name: Doorbell, Quantity: 41, Unit Cost: 677
+Resource Name: FitnessTracker, Quantity: 3, Unit Cost: 226
+Resource Name: PetToy, Quantity: 1, Unit Cost: 70
+Resource Name: SmartCoffeeMaker, Quantity: 52, Unit Cost: 178
+Resource Name: SmartPetCarrier, Quantity: 3, Unit Cost: 401
+Resource Name: SmartPetTracker, Quantity: 6, Unit Cost: 960
+Resource Name: Thermostat, Quantity: 15, Unit Cost: 823

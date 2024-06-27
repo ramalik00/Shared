@@ -1,0 +1,36 @@
+Total Cost: 175051
+Resources in Requisition:
+Resource Name: Amplifier, Quantity: 6, Unit Cost: 32
+Resource Name: Door, Quantity: 3, Unit Cost: 227
+Resource Name: Garden, Quantity: 10, Unit Cost: 523
+Resource Name: Headphones, Quantity: 4, Unit Cost: 504
+Resource Name: Modem, Quantity: 22, Unit Cost: 534
+Resource Name: PetCollar, Quantity: 39, Unit Cost: 917
+Resource Name: PetDoor, Quantity: 2, Unit Cost: 418
+Resource Name: PetDryer, Quantity: 10, Unit Cost: 180
+Resource Name: PetFeeder, Quantity: 51, Unit Cost: 155
+Resource Name: PetGroomer, Quantity: 21, Unit Cost: 610
+Resource Name: PetHarness, Quantity: 6, Unit Cost: 896
+Resource Name: PetLeash, Quantity: 12, Unit Cost: 510
+Resource Name: PetToy, Quantity: 23, Unit Cost: 139
+Resource Name: PetWaterDispenser, Quantity: 1, Unit Cost: 270
+Resource Name: RecyclingBin, Quantity: 34, Unit Cost: 29
+Resource Name: Router, Quantity: 2, Unit Cost: 185
+Resource Name: SmartCurtain, Quantity: 2, Unit Cost: 765
+Resource Name: SmartDryer, Quantity: 14, Unit Cost: 575
+Resource Name: SmartFan, Quantity: 6, Unit Cost: 506
+Resource Name: SmartLawnMower, Quantity: 14, Unit Cost: 802
+Resource Name: SmartLock, Quantity: 12, Unit Cost: 652
+Resource Name: SmartMicrowave, Quantity: 4, Unit Cost: 951
+Resource Name: SmartPetBed, Quantity: 1, Unit Cost: 98
+Resource Name: SmartPetCarrier, Quantity: 7, Unit Cost: 120
+Resource Name: SmartPetCollar, Quantity: 36, Unit Cost: 163
+Resource Name: SmartPetDryer, Quantity: 16, Unit Cost: 996
+Resource Name: SmartPetGroomer, Quantity: 19, Unit Cost: 593
+Resource Name: SmartPetHarness, Quantity: 7, Unit Cost: 110
+Resource Name: SmartPetLeash, Quantity: 1, Unit Cost: 856
+Resource Name: SmartPetWaterDispenser, Quantity: 2, Unit Cost: 587
+Resource Name: SmartThermostat, Quantity: 12, Unit Cost: 421
+Resource Name: SmartToaster, Quantity: 1, Unit Cost: 532
+Resource Name: SmartWaterLeakDetector, Quantity: 2, Unit Cost: 673
+Resource Name: Window, Quantity: 1, Unit Cost: 540

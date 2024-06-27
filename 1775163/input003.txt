@@ -1,0 +1,21 @@
+8
+2
+category pdt-6
+category pdt-8
+pdt-8 pdt-4
+category pdt-7
+category pdt-2
+pdt-7 pdt-5
+pdt-7 pdt-9
+pdt-7 pdt-3
+10
+rmpdt pdt-6
+mkpdt pdt-8 pdt-10
+rmpdt pdt-8
+count_subpdt category
+count_subpdt pdt-3
+mkpdt pdt-9 pdt-11
+mkpdt pdt-9 pdt-12
+count_subpdt pdt-9
+mkpdt pdt-5 pdt-13
+mkpdt pdt-13 pdt-14

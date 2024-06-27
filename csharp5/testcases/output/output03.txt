@@ -1,0 +1,12 @@
+Total Cost: 85517
+Resources in Requisition:
+Resource Name: Grill, Quantity: 20, Unit Cost: 503
+Resource Name: PetBowl, Quantity: 16, Unit Cost: 57
+Resource Name: PetLitterBox, Quantity: 5, Unit Cost: 885
+Resource Name: PetToy, Quantity: 3, Unit Cost: 163
+Resource Name: SmartHeater, Quantity: 15, Unit Cost: 883
+Resource Name: SmartPetHouse, Quantity: 10, Unit Cost: 792
+Resource Name: SmartPetLeash, Quantity: 30, Unit Cost: 715
+Resource Name: SmartPetShower, Quantity: 14, Unit Cost: 693
+Resource Name: SmartPetToy, Quantity: 11, Unit Cost: 854
+Resource Name: SmartRecyclingBin, Quantity: 40, Unit Cost: 198

@@ -1,0 +1,16 @@
+7
+321 321 321,4,artist,75000
+432 432 432,3,teacher,80000
+543 543 543,2,engineer,95000
+654 654 654,5,doctor,100000
+765 765 765,1,lawyer,120000
+876 876 876,6,accountant,140000
+987 987 987,3,manager,160000
+7
+artist
+teacher
+engineer
+doctor
+lawyer
+accountant
+manager

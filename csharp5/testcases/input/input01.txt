@@ -1,0 +1,8 @@
+2
+Monitor 8 200
+Keyboard 15 50
+4
+Add Monitor 10
+Add Keyboard 12
+Remove Monitor 3
+Add Keyboard 5

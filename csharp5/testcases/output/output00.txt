@@ -1,0 +1,5 @@
+Total Cost: 6000
+Resources in Requisition:
+Resource Name: Chair, Quantity: 20, Unit Cost: 100
+Resource Name: Desk, Quantity: 5, Unit Cost: 500
+Resource Name: Table, Quantity: 5, Unit Cost: 300

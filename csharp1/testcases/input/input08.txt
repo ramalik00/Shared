@@ -1,0 +1,16 @@
+7
+101 202 303,3,actor,200000
+202 303 404,2,teacher,60000
+303 404 505,4,engineer,80000
+404 505 606,5,doctor,100000
+505 606 707,3,lawyer,120000
+606 707 808,1,accountant,140000
+707 808 909,6,manager,160000
+7
+actor
+teacher
+engineer
+doctor
+lawyer
+accountant
+manager

@@ -1,0 +1,11 @@
+6
+987 654 321,3,lawyer,120000
+876 543 210,4,lawyer,130000
+765 432 109,5,accountant,140000
+654 321 098,2,accountant,150000
+543 210 987,6,manager,160000
+432 109 876,1,manager,170000
+3
+lawyer
+accountant
+manager

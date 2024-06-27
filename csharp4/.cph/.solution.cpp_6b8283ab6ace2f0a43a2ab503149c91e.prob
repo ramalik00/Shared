@@ -1,0 +1,1 @@
+{"name":"Local: solution","url":"/Users/rahul/Desktop/Shared/csharp4/solution.cpp","tests":[{"id":1715775498850,"input":"5\n1 95 9 5 98\n2 75 8 2 78\n3 68 7 1 70\n4 85 8 4 90\n5 45 5 0 40","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahul/Desktop/Shared/csharp4/solution.cpp","group":"local","local":true}

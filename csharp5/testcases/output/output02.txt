@@ -1,0 +1,13 @@
+Total Cost: 102332
+Resources in Requisition:
+Resource Name: Composter, Quantity: 7, Unit Cost: 564
+Resource Name: IrrigationController, Quantity: 11, Unit Cost: 622
+Resource Name: Mainframe, Quantity: 7, Unit Cost: 529
+Resource Name: PetLeash, Quantity: 11, Unit Cost: 630
+Resource Name: SmartFan, Quantity: 19, Unit Cost: 335
+Resource Name: SmartPetCarrier, Quantity: 51, Unit Cost: 760
+Resource Name: SmartPetLeash, Quantity: 7, Unit Cost: 494
+Resource Name: SmartPetLitterBox, Quantity: 24, Unit Cost: 522
+Resource Name: Supercomputer, Quantity: 6, Unit Cost: 474
+Resource Name: Thermostat, Quantity: 38, Unit Cost: 436
+Resource Name: WaterShutoffValve, Quantity: 2, Unit Cost: 193

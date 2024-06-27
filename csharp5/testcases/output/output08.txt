@@ -1,0 +1,16 @@
+Total Cost: 80316
+Resources in Requisition:
+Resource Name: Earphones, Quantity: 4, Unit Cost: 146
+Resource Name: Laptop, Quantity: 3, Unit Cost: 796
+Resource Name: PetGroomer, Quantity: 10, Unit Cost: 745
+Resource Name: PetHouse, Quantity: 4, Unit Cost: 789
+Resource Name: Projector, Quantity: 19, Unit Cost: 564
+Resource Name: Scanner, Quantity: 2, Unit Cost: 168
+Resource Name: SmartLight, Quantity: 3, Unit Cost: 322
+Resource Name: SmartPetDryer, Quantity: 4, Unit Cost: 379
+Resource Name: SmartPetLeash, Quantity: 4, Unit Cost: 998
+Resource Name: SmartPetLitterBox, Quantity: 10, Unit Cost: 684
+Resource Name: SmartPetToilet, Quantity: 15, Unit Cost: 372
+Resource Name: SmartPetWaterDispenser, Quantity: 35, Unit Cost: 840
+Resource Name: Table, Quantity: 3, Unit Cost: 264
+Resource Name: Window, Quantity: 11, Unit Cost: 600

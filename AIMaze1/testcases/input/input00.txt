@@ -1,0 +1,61 @@
+Editorial : We can solve this problem by running BFS or DFS algorithm from the start point. Keep track of number of traps you have encountered and if it exceeds 1, then obviously that position is not possible to reach through the current path, similarly for walls.
+
+
+Time Complexity: The overall time complexity of the provided code is O(n * m), where 'n' is the number of rows and 'm' is the number of columns in the maze. This complexity arises from two main operations: finding the start point, which takes O(n * m) time as it iterates over the entire maze, and the breadth-first search (BFS) traversal, which explores up to 4 neighboring cells at each step, also taking O(n * m) time in the worst case scenario. Therefore, the total time complexity is dominated by the size of the maze grid.
+
+Space Complexity: The overall space complexity of the provided code is also O(n * m), where 'n' is the number of rows and 'm' is the number of columns in the maze. This complexity primarily arises from the space required for the queue used in the breadth-first search (BFS), which can store up to all the cells in the maze in the worst case (O(n * m)). Additionally, the space complexity is influenced by the visited map, which can have entries for all unique cell-state combinations encountered during the BFS traversal, also occupying O(n * m) space. Thus, the space complexity is proportional to the size of the maze grid.
+
+
+
+/*
+ * Complete the 'checkPath' function below.
+ *
+ * The function is expected to return a BOOLEAN.
+ * The function accepts STRING_ARRAY maze as parameter.
+ */
+int dx[4] = {0,0,1,-1};
+int dy[4] = {1,-1,0,0};
+bool check(int x,int y,int n,int m){
+    return x>=0 && x<n && y>=0 && y<m;
+}
+array<int,2> findStart(vector<string> maze){
+    int n = maze.size();
+    int m = maze[0].size();
+    for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+            if(maze[i][j] == 'S'){
+                return {i,j};
+            }
+        }
+    }
+    return {-1,-1};
+}
+bool checkPath(vector<string> maze) {
+    int n = maze.size();
+    int m = maze[0].size();
+    queue<array<int,3>>q;
+    array<int,2>start = findStart(maze);
+    q.push({start[0],start[1],0});
+    map<array<int,3>,bool>visited;
+    visited[{start[0],start[1],0}] = true;
+    while(!q.empty()){
+        array<int,3>cur = q.front();
+        q.pop();
+        if(maze[cur[0]][cur[1]] == 'E'){
+            return true;
+        }
+        for(int i=0;i<4;i++){
+            int x = cur[0]+dx[i];
+            int y = cur[1]+dy[i];
+            int z = cur[2];
+            if(!check(x,y,n,m) || maze[x][y]=='W')continue;
+            if(maze[x][y] == 'T')z++;
+            if(z>=2)continue;
+            if(visited[{x,y,z}])continue;
+            visited[{x,y,z}] = true;
+            q.push({x,y,z});
+        }
+
+    }
+    return false;
+}

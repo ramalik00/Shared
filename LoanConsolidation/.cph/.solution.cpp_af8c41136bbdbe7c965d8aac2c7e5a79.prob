@@ -1,0 +1,1 @@
+{"name":"Local: solution","url":"/Users/rahul/Desktop/Shared/Cargo_Pickup/solution.cpp","tests":[{"id":1702658215172,"input":"3 3\n1 3 6\n1 2 5\n2 3 3\n12","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/rahul/Desktop/Shared/Cargo_Pickup/solution.cpp","group":"local","local":true}

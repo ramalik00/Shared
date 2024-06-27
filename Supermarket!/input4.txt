@@ -1,0 +1,9 @@
+2
+7
+new disk
+new drive
+new lights
+del disk
+new lights
+limit 2
+new kite

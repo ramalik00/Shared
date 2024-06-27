@@ -1,0 +1,9 @@
+3
+2
+category pdt-2
+pdt-2 pdt-3
+pdt-2 pdt-4
+3
+mkpdt category pdt-5
+count_subpdt pdt-2
+count_subpdt category

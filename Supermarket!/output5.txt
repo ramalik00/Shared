@@ -1,0 +1,11 @@
+disk created
+drive created
+Product lights cannot be created. Maximum 2 products allowed
+disk deleted successfully
+lights created
+limit updated to 3
+kite created
+drive deleted successfully
+lights deleted successfully
+drive created
+lights created

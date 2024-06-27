@@ -1,0 +1,14 @@
+6
+321 456 789,4,teacher,80000
+123 567 890,2,engineer,90000
+234 678 901,6,doctor,100000
+456 789 012,1,lawyer,110000
+345 890 123,5,accountant,120000
+567 901 234,3,manager,130000
+6
+teacher
+engineer
+doctor
+lawyer
+accountant
+manager

@@ -1,0 +1,4 @@
+Total Cost: 1750
+Resources in Requisition:
+Resource Name: Keyboard, Quantity: 15, Unit Cost: 50
+Resource Name: Monitor, Quantity: 5, Unit Cost: 200

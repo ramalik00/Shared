@@ -1,0 +1,9 @@
+3
+Table 15 300
+Chair 30 100
+Desk 10 500
+4
+Add Table 10
+Add Chair 20
+Remove Table 5
+Add Desk 5

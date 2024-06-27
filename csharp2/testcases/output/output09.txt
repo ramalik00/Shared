@@ -1,0 +1,116 @@
+Travel:
+Claim ID: 782832 Policy Type: Travel Date: 2024-09-25 Amount: $800600
+Claim ID: 548644 Policy Type: Travel Date: 2024-02-16 Amount: $528700
+Claim ID: 206900 Policy Type: Travel Date: 2024-11-13 Amount: $676700
+Claim ID: 781935 Policy Type: Travel Date: 2024-08-09 Amount: $695300
+Claim ID: 60042 Policy Type: Travel Date: 2024-10-29 Amount: $842800
+Claim ID: 84159 Policy Type: Travel Date: 2024-11-25 Amount: $876300
+Claim ID: 619902 Policy Type: Travel Date: 2024-03-21 Amount: $421200
+Claim ID: 613661 Policy Type: Travel Date: 2024-04-27 Amount: $546300
+Claim ID: 715521 Policy Type: Travel Date: 2024-11-17 Amount: $903500
+Claim ID: 593678 Policy Type: Travel Date: 2024-06-24 Amount: $959600
+Home:
+Claim ID: 944442 Policy Type: Home Date: 2024-03-01 Amount: $356100
+Claim ID: 612060 Policy Type: Home Date: 2024-06-29 Amount: $358800
+Claim ID: 742796 Policy Type: Home Date: 2024-07-14 Amount: $313400
+Claim ID: 110455 Policy Type: Home Date: 2024-10-25 Amount: $376900
+Claim ID: 1108 Policy Type: Home Date: 2024-10-07 Amount: $323500
+Claim ID: 972871 Policy Type: Home Date: 2024-04-13 Amount: $232400
+Claim ID: 111363 Policy Type: Home Date: 2024-02-13 Amount: $892600
+Claim ID: 897031 Policy Type: Home Date: 2024-04-01 Amount: $553100
+Claim ID: 955066 Policy Type: Home Date: 2024-08-09 Amount: $267800
+Claim ID: 618613 Policy Type: Home Date: 2024-08-02 Amount: $215300
+Claim ID: 536715 Policy Type: Home Date: 2024-06-05 Amount: $374400
+Auto:
+Claim ID: 966363 Policy Type: Auto Date: 2024-05-17 Amount: $338800
+Claim ID: 292208 Policy Type: Auto Date: 2024-07-05 Amount: $404300
+Claim ID: 4755 Policy Type: Auto Date: 2024-04-07 Amount: $718000
+Claim ID: 340671 Policy Type: Auto Date: 2024-05-29 Amount: $609200
+Claim ID: 106027 Policy Type: Auto Date: 2024-09-14 Amount: $703500
+Claim ID: 136845 Policy Type: Auto Date: 2024-07-01 Amount: $831900
+Claim ID: 171236 Policy Type: Auto Date: 2024-05-23 Amount: $792100
+Claim ID: 544064 Policy Type: Auto Date: 2024-06-08 Amount: $898400
+Claim ID: 792479 Policy Type: Auto Date: 2024-01-03 Amount: $757600
+Claim ID: 417943 Policy Type: Auto Date: 2024-02-18 Amount: $674600
+Property:
+Claim ID: 493181 Policy Type: Property Date: 2024-11-28 Amount: $523900
+Claim ID: 919504 Policy Type: Property Date: 2024-11-02 Amount: $358400
+Claim ID: 753269 Policy Type: Property Date: 2024-10-04 Amount: $665200
+Claim ID: 711987 Policy Type: Property Date: 2024-02-09 Amount: $712400
+Claim ID: 100282 Policy Type: Property Date: 2024-11-05 Amount: $455400
+Claim ID: 347338 Policy Type: Property Date: 2024-02-03 Amount: $605400
+Claim ID: 319151 Policy Type: Property Date: 2024-10-08 Amount: $839600
+Claim ID: 582725 Policy Type: Property Date: 2024-05-08 Amount: $576100
+Claim ID: 624879 Policy Type: Property Date: 2024-05-21 Amount: $691800
+Claim ID: 150097 Policy Type: Property Date: 2024-08-26 Amount: $907700
+Claim ID: 394273 Policy Type: Property Date: 2024-12-26 Amount: $876500
+Claim ID: 233053 Policy Type: Property Date: 2024-02-05 Amount: $390800
+Claim ID: 286059 Policy Type: Property Date: 2024-09-04 Amount: $849900
+Claim ID: 557432 Policy Type: Property Date: 2024-12-11 Amount: $402300
+Claim ID: 781582 Policy Type: Property Date: 2024-04-29 Amount: $542300
+Business:
+Claim ID: 728428 Policy Type: Business Date: 2024-01-02 Amount: $810900
+Claim ID: 200377 Policy Type: Business Date: 2024-06-12 Amount: $573000
+Claim ID: 90855 Policy Type: Business Date: 2024-04-14 Amount: $947200
+Claim ID: 869629 Policy Type: Business Date: 2024-07-12 Amount: $846900
+Claim ID: 25450 Policy Type: Business Date: 2024-08-28 Amount: $735100
+Claim ID: 579994 Policy Type: Business Date: 2024-11-26 Amount: $230100
+Claim ID: 360090 Policy Type: Business Date: 2024-08-03 Amount: $750600
+Claim ID: 239962 Policy Type: Business Date: 2024-04-06 Amount: $782100
+Claim ID: 157934 Policy Type: Business Date: 2024-07-21 Amount: $417700
+Claim ID: 183880 Policy Type: Business Date: 2024-12-19 Amount: $725500
+Claim ID: 320016 Policy Type: Business Date: 2024-05-21 Amount: $753800
+Claim ID: 779296 Policy Type: Business Date: 2024-07-29 Amount: $998600
+Claim ID: 523732 Policy Type: Business Date: 2024-07-10 Amount: $221900
+Claim ID: 336775 Policy Type: Business Date: 2024-06-25 Amount: $935100
+Pet:
+Claim ID: 504368 Policy Type: Pet Date: 2024-05-07 Amount: $612900
+Claim ID: 22283 Policy Type: Pet Date: 2024-09-12 Amount: $234000
+Claim ID: 603869 Policy Type: Pet Date: 2024-03-15 Amount: $658600
+Claim ID: 267609 Policy Type: Pet Date: 2024-05-28 Amount: $347600
+Claim ID: 962751 Policy Type: Pet Date: 2024-11-17 Amount: $967400
+Claim ID: 270138 Policy Type: Pet Date: 2024-02-08 Amount: $223800
+Claim ID: 844871 Policy Type: Pet Date: 2024-10-26 Amount: $338700
+Claim ID: 120860 Policy Type: Pet Date: 2024-10-08 Amount: $758200
+Claim ID: 85258 Policy Type: Pet Date: 2024-03-03 Amount: $552900
+Claim ID: 537109 Policy Type: Pet Date: 2024-09-16 Amount: $344600
+Claim ID: 762821 Policy Type: Pet Date: 2024-11-05 Amount: $272100
+Claim ID: 144438 Policy Type: Pet Date: 2024-04-15 Amount: $816800
+Claim ID: 124013 Policy Type: Pet Date: 2024-02-26 Amount: $607500
+Claim ID: 724363 Policy Type: Pet Date: 2024-12-07 Amount: $262800
+Life:
+Claim ID: 621258 Policy Type: Life Date: 2024-11-25 Amount: $709300
+Claim ID: 24347 Policy Type: Life Date: 2024-03-04 Amount: $294500
+Claim ID: 867261 Policy Type: Life Date: 2024-09-16 Amount: $585900
+Claim ID: 90598 Policy Type: Life Date: 2024-03-23 Amount: $245700
+Claim ID: 377806 Policy Type: Life Date: 2024-07-02 Amount: $915400
+Claim ID: 222577 Policy Type: Life Date: 2024-11-15 Amount: $386000
+Claim ID: 654706 Policy Type: Life Date: 2024-03-05 Amount: $377300
+Claim ID: 4969 Policy Type: Life Date: 2024-12-13 Amount: $455700
+Claim ID: 413342 Policy Type: Life Date: 2024-12-23 Amount: $265700
+Claim ID: 112521 Policy Type: Life Date: 2024-03-01 Amount: $853000
+Claim ID: 311196 Policy Type: Life Date: 2024-03-05 Amount: $917100
+Claim ID: 500496 Policy Type: Life Date: 2024-08-22 Amount: $276700
+Claim ID: 433383 Policy Type: Life Date: 2024-10-27 Amount: $806300
+Claim ID: 855999 Policy Type: Life Date: 2024-09-14 Amount: $679400
+Health:
+Claim ID: 372342 Policy Type: Health Date: 2024-06-02 Amount: $436800
+Claim ID: 661586 Policy Type: Health Date: 2024-05-21 Amount: $405500
+Claim ID: 921196 Policy Type: Health Date: 2024-07-26 Amount: $313100
+Claim ID: 587370 Policy Type: Health Date: 2024-07-28 Amount: $551400
+Claim ID: 841473 Policy Type: Health Date: 2024-01-09 Amount: $635600
+Claim ID: 144210 Policy Type: Health Date: 2024-06-03 Amount: $707000
+Claim ID: 348479 Policy Type: Health Date: 2024-09-04 Amount: $565800
+Claim ID: 810410 Policy Type: Health Date: 2024-05-02 Amount: $764900
+Claim ID: 95550 Policy Type: Health Date: 2024-09-28 Amount: $255600
+Claim ID: 596899 Policy Type: Health Date: 2024-04-10 Amount: $378900
+Claim ID: 602749 Policy Type: Health Date: 2024-02-20 Amount: $637400
+Total Claim Amount: $57787800.00
+Travel: 10
+Home: 11
+Auto: 10
+Property: 15
+Business: 14
+Pet: 14
+Life: 14
+Health: 11

@@ -1,0 +1,16 @@
+7
+999 888 777,4,scientist,200000
+888 777 666,3,teacher,70000
+777 666 555,5,engineer,90000
+666 555 444,2,doctor,110000
+555 444 333,6,lawyer,130000
+444 333 222,1,accountant,150000
+333 222 111,3,manager,160000
+7
+scientist
+teacher
+engineer
+doctor
+lawyer
+accountant
+manager

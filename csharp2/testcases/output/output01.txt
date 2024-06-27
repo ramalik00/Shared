@@ -1,0 +1,7 @@
+Auto:
+Claim ID: 1002 Policy Type: Auto Date: 2024-06-05 Amount: $9500
+Health:
+Claim ID: 1003 Policy Type: Health Date: 2024-06-10 Amount: $5500
+Total Claim Amount: $15000.00
+Auto: 1
+Health: 1

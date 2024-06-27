@@ -1,0 +1,202 @@
+99
+2
+pdt-68 pdt-35
+pdt-35 pdt-79
+pdt-79 pdt-54
+pdt-54 pdt-84
+pdt-54 pdt-85
+pdt-68 pdt-27
+pdt-68 pdt-11
+pdt-84 pdt-28
+pdt-68 pdt-47
+pdt-68 pdt-46
+pdt-68 pdt-69
+pdt-11 pdt-99
+pdt-69 pdt-3
+pdt-54 pdt-9
+pdt-3 pdt-40
+pdt-11 pdt-88
+pdt-27 pdt-29
+pdt-54 pdt-64
+pdt-99 pdt-75
+pdt-28 pdt-76
+pdt-28 pdt-70
+pdt-64 pdt-82
+pdt-64 pdt-49
+pdt-40 pdt-6
+category pdt-27
+pdt-85 pdt-92
+pdt-70 pdt-93
+pdt-9 pdt-20
+pdt-54 pdt-77
+pdt-6 pdt-43
+pdt-64 pdt-39
+pdt-85 pdt-65
+pdt-92 pdt-32
+pdt-54 pdt-36
+pdt-40 pdt-13
+pdt-85 pdt-4
+pdt-40 pdt-33
+pdt-40 pdt-7
+pdt-43 pdt-12
+pdt-99 pdt-52
+pdt-75 pdt-19
+pdt-12 pdt-81
+pdt-75 pdt-58
+pdt-13 pdt-62
+pdt-32 pdt-97
+pdt-97 pdt-15
+pdt-85 pdt-53
+pdt-12 pdt-10
+pdt-20 pdt-61
+pdt-7 pdt-25
+pdt-92 pdt-67
+pdt-54 pdt-51
+pdt-11 pdt-23
+pdt-35 pdt-24
+pdt-49 pdt-56
+pdt-39 pdt-60
+pdt-46 pdt-2
+pdt-2 pdt-91
+pdt-85 pdt-45
+pdt-20 pdt-96
+pdt-76 pdt-98
+pdt-65 pdt-41
+pdt-69 pdt-72
+pdt-7 pdt-48
+pdt-35 pdt-90
+pdt-52 pdt-78
+pdt-85 pdt-16
+pdt-69 pdt-66
+pdt-10 pdt-26
+pdt-16 pdt-59
+pdt-84 pdt-73
+pdt-10 pdt-89
+pdt-93 pdt-83
+pdt-47 pdt-30
+pdt-64 pdt-80
+pdt-72 pdt-8
+pdt-97 pdt-5
+pdt-19 pdt-71
+pdt-52 pdt-37
+pdt-93 pdt-86
+pdt-68 pdt-95
+pdt-29 pdt-44
+pdt-41 pdt-100
+pdt-33 pdt-38
+pdt-3 pdt-55
+pdt-6 pdt-18
+pdt-53 pdt-57
+pdt-23 pdt-22
+pdt-73 pdt-34
+pdt-2 pdt-42
+pdt-23 pdt-74
+pdt-69 pdt-63
+pdt-89 pdt-87
+pdt-35 pdt-14
+pdt-20 pdt-31
+pdt-24 pdt-21
+pdt-71 pdt-94
+pdt-41 pdt-17
+pdt-92 pdt-50
+100
+rmpdt pdt-21
+mkpdt pdt-80 pdt-101
+mkpdt pdt-3 pdt-102
+count_subpdt pdt-84
+mkpdt pdt-60 pdt-103
+rmpdt pdt-65
+rmpdt pdt-45
+mkpdt pdt-101 pdt-104
+count_subpdt pdt-76
+rmpdt pdt-75
+count_subpdt pdt-90
+mkpdt pdt-104 pdt-105
+mkpdt pdt-31 pdt-106
+rmpdt pdt-3
+mkpdt pdt-63 pdt-107
+count_subpdt pdt-34
+mkpdt pdt-37 pdt-108
+count_subpdt pdt-4
+rmpdt pdt-78
+rmpdt pdt-68
+count_subpdt pdt-44
+count_subpdt pdt-44
+count_subpdt pdt-27
+mkpdt pdt-29 pdt-109
+mkpdt pdt-44 pdt-110
+count_subpdt pdt-109
+count_subpdt category
+rmpdt pdt-44
+count_subpdt pdt-27
+mkpdt pdt-109 pdt-111
+count_subpdt category
+mkpdt pdt-29 pdt-112
+rmpdt pdt-29
+count_subpdt category
+count_subpdt pdt-27
+count_subpdt pdt-27
+count_subpdt pdt-27
+count_subpdt category
+mkpdt pdt-27 pdt-113
+mkpdt pdt-27 pdt-114
+rmpdt pdt-27
+mkpdt category pdt-115
+rmpdt pdt-115
+count_subpdt category
+mkpdt category pdt-116
+mkpdt category pdt-117
+mkpdt category pdt-118
+mkpdt category pdt-119
+count_subpdt pdt-118
+count_subpdt pdt-118
+rmpdt pdt-116
+count_subpdt pdt-117
+count_subpdt pdt-118
+rmpdt pdt-119
+rmpdt pdt-118
+count_subpdt category
+count_subpdt pdt-117
+count_subpdt category
+mkpdt category pdt-120
+mkpdt category pdt-121
+mkpdt pdt-117 pdt-122
+count_subpdt pdt-122
+rmpdt pdt-117
+rmpdt pdt-120
+count_subpdt category
+count_subpdt pdt-121
+mkpdt category pdt-123
+mkpdt pdt-121 pdt-124
+rmpdt pdt-121
+mkpdt pdt-123 pdt-125
+rmpdt pdt-123
+count_subpdt category
+mkpdt category pdt-126
+mkpdt category pdt-127
+count_subpdt pdt-127
+count_subpdt category
+count_subpdt pdt-127
+rmpdt pdt-126
+mkpdt pdt-127 pdt-128
+mkpdt category pdt-129
+mkpdt pdt-127 pdt-130
+count_subpdt pdt-127
+mkpdt pdt-129 pdt-131
+count_subpdt pdt-127
+count_subpdt pdt-129
+rmpdt pdt-131
+rmpdt pdt-127
+mkpdt pdt-129 pdt-132
+rmpdt pdt-132
+count_subpdt category
+rmpdt pdt-129
+mkpdt category pdt-133
+rmpdt pdt-133
+mkpdt category pdt-134
+count_subpdt pdt-134
+rmpdt pdt-134
+mkpdt category pdt-135
+count_subpdt pdt-135
+rmpdt pdt-135
+mkpdt category pdt-136

@@ -1,0 +1,13 @@
+Life:
+Claim ID: 1001 Policy Type: Life Date: 2024-01-01 Amount: $2000
+Health:
+Claim ID: 1002 Policy Type: Health Date: 2024-02-02 Amount: $4000
+Home:
+Claim ID: 1004 Policy Type: Home Date: 2024-04-04 Amount: $8000
+Travel:
+Claim ID: 1005 Policy Type: Travel Date: 2024-05-05 Amount: $10000
+Total Claim Amount: $24000.00
+Life: 1
+Health: 1
+Home: 1
+Travel: 1

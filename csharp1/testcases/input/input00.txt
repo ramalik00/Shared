@@ -1,0 +1,11 @@
+6
+123 456 789,4,teacher,60000
+234 567 890,3,teacher,70000
+345 678 901,5,engineer,80000
+456 789 012,2,engineer,90000
+567 890 123,6,doctor,100000
+678 901 234,1,doctor,110000
+3
+teacher
+engineer
+doctor

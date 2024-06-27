@@ -1,0 +1,16 @@
+7
+998 877 665,5,pilot,150000
+887 776 554,2,teacher,65000
+776 665 443,3,engineer,85000
+665 554 332,4,doctor,95000
+554 443 221,6,lawyer,115000
+443 332 110,1,accountant,125000
+332 221 009,3,manager,135000
+7
+pilot
+teacher
+engineer
+doctor
+lawyer
+accountant
+manager

@@ -1,0 +1,151 @@
+100
+799 727 161,6,developer,97899
+224 235 146,8,doctor,52770
+550 319 382,5,tour guide,147671
+542 800 407,3,psychologist,89985
+151 790 746,6,mechanic,90117
+322 379 119,2,interpreter,121241
+910 605 861,2,analyst,118079
+883 449 802,4,counselor,143873
+526 569 322,10,engineer,119817
+706 223 216,9,photographer,124707
+709 194 645,3,accountant,133749
+533 110 453,6,beautician,125918
+780 955 795,7,musician,90382
+549 654 484,4,teacher,79398
+317 619 659,5,journalist,138065
+798 825 899,8,electrician,99617
+951 335 217,1,dancer,99821
+999 911 155,3,pharmacist,60074
+226 909 772,7,translator,119657
+569 862 166,5,pilot,136784
+258 381 806,8,journalist,117724
+652 661 606,8,curator,85430
+307 512 449,2,curator,53300
+594 656 310,4,painter,107090
+440 119 821,4,consultant,120529
+577 676 990,6,real estate agent,112464
+478 255 331,10,beautician,140489
+840 621 761,4,consultant,133134
+924 393 778,5,veterinarian,108868
+582 321 605,8,doctor,52704
+727 441 430,7,doctor,53280
+517 796 740,3,counselor,85995
+602 349 427,10,chef,105292
+771 249 263,4,photographer,91692
+113 197 333,6,curator,50255
+380 113 604,7,counselor,97425
+551 930 360,1,athlete,147968
+813 289 801,9,social worker,121020
+339 333 163,5,lawyer,149325
+433 439 977,5,lawyer,61829
+600 727 459,3,therapist,113559
+164 466 988,6,mechanic,144118
+355 597 624,1,business,107538
+142 348 769,2,athlete,88047
+240 104 300,6,librarian,131431
+767 686 738,8,veterinarian,61634
+657 673 785,3,engineer,119828
+399 516 984,1,actor,83223
+784 211 741,9,counselor,57961
+705 323 730,2,manager,94695
+631 402 594,3,painter,121610
+378 578 501,5,athlete,76898
+201 488 606,9,doctor,117042
+949 850 635,7,chef,91435
+502 119 734,6,journalist,118412
+406 528 451,10,farmer,137081
+460 497 413,6,plumber,111194
+166 677 853,6,engineer,64214
+791 905 420,10,photographer,74896
+487 346 940,2,actor,130210
+458 949 917,9,veterinarian,80056
+107 791 186,3,painter,72654
+589 657 458,3,teacher,50797
+408 606 820,2,tailor,62275
+926 675 478,8,artist,100418
+539 996 592,2,barber,115035
+165 760 253,8,blacksmith,106843
+303 924 177,3,mechanic,57285
+649 987 579,8,consultant,97169
+412 261 213,5,architect,146340
+492 231 403,4,curator,78864
+379 570 280,4,scientist,65070
+860 659 694,7,journalist,121722
+307 302 805,9,beautician,149871
+546 326 703,8,artist,68484
+984 644 682,5,business,135589
+492 231 766,7,chef,124053
+238 247 249,4,electrician,142980
+925 351 463,9,psychologist,144812
+188 633 523,3,dancer,117265
+178 825 643,10,architect,58329
+656 305 482,2,designer,60233
+410 131 524,1,writer,146337
+615 371 437,9,real estate agent,56858
+377 536 527,6,pharmacist,136157
+999 629 777,4,farmer,110278
+282 339 456,1,farmer,69018
+615 817 792,5,lawyer,103109
+214 779 558,10,dentist,79000
+372 560 836,3,electrician,144193
+652 160 473,2,pilot,75148
+792 696 779,6,barber,75482
+402 858 758,2,social worker,78752
+532 519 659,7,archivist,90498
+433 579 876,1,interpreter,61040
+908 697 577,4,veterinarian,89217
+579 551 215,4,accountant,123149
+600 680 891,4,doctor,94992
+418 936 758,1,writer,54941
+975 803 660,8,business,116063
+49
+teacher
+engineer
+doctor
+lawyer
+accountant
+manager
+nurse
+farmer
+business
+chef
+pilot
+scientist
+artist
+actor
+writer
+journalist
+photographer
+musician
+painter
+dancer
+athlete
+coach
+consultant
+developer
+analyst
+architect
+designer
+electrician
+plumber
+mechanic
+carpenter
+blacksmith
+tailor
+barber
+beautician
+dentist
+pharmacist
+veterinarian
+psychologist
+therapist
+counselor
+social worker
+librarian
+curator
+archivist
+translator
+interpreter
+tour guide
+real estate agent
